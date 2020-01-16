@@ -1,0 +1,22 @@
+body {
+	background-color:black;
+}
+
+
+#text-container {
+  padding-top: 10px;
+  padding-right: 500px;
+  padding-bottom: 10px;
+  padding-left: 500px;
+}
+
+
+
+a {
+	color: white;
+
+}
+
+a:hover {
+  color: black;
+}
