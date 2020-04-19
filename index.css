@@ -1,11 +1,12 @@
 .masthead {
-  height: 75vh;
+  height: 100vh;
   min-height: 500px;
-  background-image: url('Yesmar-Logo-7.png');
+  background-image: url('Logo-1vfColored.png');
   background-size: cover;
+
   background-position: center;
   background-repeat: no-repeat;
-  width: 100%;
+  width: 75%;
   height: auto;
 }
 
