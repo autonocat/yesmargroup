@@ -31,3 +31,8 @@
 	font-weight: bold;
 	font-style: oblique;
 }
+
+img.test {
+    width: 100%;
+    height: auto;
+}
