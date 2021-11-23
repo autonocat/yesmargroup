@@ -1,10 +1,19 @@
 #sitehead {
 	text-align:center;
+	color:#262626;
 	width:100%;
 	display:block;
 	margin:auto;
 }
 
+/* top of site links */
+#links {
+	text-align:center;
+	color:#262626;
+	font-family:'EB Garamond', serif;
+	font-weight: bold;
+	font-style: oblique;
+}
 
 #post {
 	color:#262626;
@@ -16,6 +25,10 @@
 #content {
 	color:#262626;
 	font-family:'EB Garamond', serif;
+}
+
+#postheader {
+	text-align:center;
 }
 
 
@@ -35,4 +48,13 @@
 img.test {
     width: 100%;
     height: auto;
+}
+
+
+a:link {
+  color: #262626;
+}
+/* visited link */
+a:visited {
+  color: #262626;
 }
