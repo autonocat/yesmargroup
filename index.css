@@ -18,7 +18,6 @@
 #post {
 	color:#262626;
 	font-family:'EB Garamond', serif;
-	font-weight: bold;
 	font-style: oblique;
 }
 
@@ -29,6 +28,7 @@
 
 #postheader {
 	text-align:center;
+	font-weight: bold;
 }
 
 
